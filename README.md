@@ -2,5 +2,5 @@
 
 Link to the project's description: https://www.cs.ucr.edu/~lesani/teaching/cp/cp.html
 
-#Phase 1: Type-Checking
+## Phase 1: Type-Checking
 
